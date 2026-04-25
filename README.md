@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=newiseland&label=Profile+Views&color=FF6600&style=for-the-badge" alt="Profile views"/>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/newiseland?label=Followers&style=for-the-badge&color=orange&logo=github)](https://github.com/newiseland)
+[![GitHub followers](https://img.shields.io/github/followers/SIDHIMUSIC?label=Followers&style=for-the-badge&color=orange&logo=github)](https://github.com/SIDHIMUSIC)
 
 </div>
 
