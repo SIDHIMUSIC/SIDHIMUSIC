@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=3" width="100%" alt="Harry — personal profile banner"/>
+<img src="./assets/hero.svg?v=4" width="100%" alt="Harry — personal profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=247BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Student+%7C+Coder+%7C+Gamer;Building+things+with+curiosity;Code+by+day.+Music+by+night." alt="Animated introduction"/>
 
@@ -33,7 +33,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 </tr>
 </table>
 
-<img src="./assets/about-life.svg?v=3" width="100%" alt="About Harry — code by day, music by night"/>
+<img src="./assets/about-life.svg?v=4" width="100%" alt="About Harry — code by day, music by night"/>
 
 ## ⚡ Tech Stack
 
@@ -52,7 +52,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 </div>
 
-<img src="./assets/stack.svg?v=3" width="100%" alt="Technology toolkit"/>
+<img src="./assets/stack.svg?v=4" width="100%" alt="Technology toolkit"/>
 
 ## 🧩 Things I've Built
 
@@ -63,7 +63,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 | **Telegram projects** | Bots, utilities and community experiments | [GitHub profile](https://github.com/SIDHIMUSIC) |
 | **Gaming Community Hub** | Community web app with posts and interactions | [Explore projects](https://github.com/SIDHIMUSIC) |
 
-<img src="./assets/id-dashboard.svg?v=3" width="100%" alt="Harry creator identity card"/>
+<img src="./assets/id-dashboard.svg?v=4" width="100%" alt="Harry creator identity card"/>
 
 ## 📌 GitHub at a glance
 
@@ -103,7 +103,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 </tr>
 </table>
 
-<img src="./assets/connect.svg?v=3" width="100%" alt="Connect with Harry"/>
+<img src="./assets/connect.svg?v=4" width="100%" alt="Connect with Harry"/>
 
 <div align="center">
 
