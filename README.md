@@ -75,19 +75,28 @@ Community web app with posts and interactions.
 
 ## 🌐 Find me online
 
-<div align="center">
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
 
-<img src="./assets/right_pointing.png" width="220" alt="Harry pointing toward the links"/>
+<img src="./assets/right_pointing.png" width="100%" alt="Harry pointing toward the links"/>
+
+</td>
+<td width="55%" valign="middle">
 
 ### Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-SIDHIMUSIC-101827?style=for-the-badge&logo=github)](https://github.com/SIDHIMUSIC)
 
-[![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACHA)
+[![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACCHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACCHA)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tum_jaha_hum_wahi)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-247BFF?style=for-the-badge&logo=googlechrome)](https://harryashu.online/)
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/connect.svg?v=4" width="100%" alt="Animated connect with Harry banner"/>
 
