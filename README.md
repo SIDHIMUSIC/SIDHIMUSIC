@@ -78,11 +78,15 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 </div>
 
-## 💻 Dev Terminal & Activity
+## 💻 Dev Terminal
 
-<img src="./assets/dev-terminal.svg?v=2" width="100%" alt="Animated developer terminal"/>
+<img src="./assets/dev-terminal.svg?v=1" width="100%" alt="Animated developer terminal showing current learning focus"/>
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDHIMUSIC&bg_color=070c18&color=4c91ff&line=ff405c&point=ffffff&area=true&hide_border=true" width="100%" alt="Recent GitHub contribution activity graph"/>
+
+</div>
 
 ## 🌐 Find me online
 
