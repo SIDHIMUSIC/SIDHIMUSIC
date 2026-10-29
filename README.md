@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=4" width="100%" alt="Harry — personal profile banner"/>
+<img src="./assets/hero.svg?v=4" width="100%" alt="Harry — animated personal profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=247BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Student+%7C+Coder+%7C+Gamer;Building+things+with+curiosity;Code+by+day.+Music+by+night." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=247BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Student+%7C+Coder+%7C+Gamer;Building+things+with+curiosity;Code+by+day.+Music+by+night." width="100%" alt="Animated introduction"/>
+
+<img src="./assets/id.png" width="260" alt="Harry illustrated portrait"/>
 
 </div>
-
-<table>
-<tr>
-<td width="58%" valign="middle">
 
 ## Hey, I'm Harry 👋
 
@@ -23,15 +21,6 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 [![GitHub](https://img.shields.io/badge/GitHub-SIDHIMUSIC-101827?style=for-the-badge&logo=github)](https://github.com/SIDHIMUSIC)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACHA)
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="./assets/id.png" width="100%" alt="Harry illustrated portrait"/>
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/about-life.svg?v=4" width="100%" alt="About Harry — code by day, music by night"/>
 
@@ -52,16 +41,25 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 </div>
 
-<img src="./assets/stack.svg?v=4" width="100%" alt="Technology toolkit"/>
+<img src="./assets/stack.svg?v=4" width="100%" alt="Animated technology toolkit"/>
 
 ## 🧩 Things I've Built
 
-| Project | What it does | Link |
-|---|---|---|
-| **Sidhi Gym Tracker** | Workout, treadmill and body-weight tracking | [Open repo](https://github.com/SIDHIMUSIC/sidhi-gym-tracker) |
-| **Portfolio** | Personal portfolio and web projects | [Visit site](https://harryashu.online/) |
-| **Telegram projects** | Bots, utilities and community experiments | [GitHub profile](https://github.com/SIDHIMUSIC) |
-| **Gaming Community Hub** | Community web app with posts and interactions | [Explore projects](https://github.com/SIDHIMUSIC) |
+**🏋️ Sidhi Gym Tracker**  
+Workout, treadmill and body-weight tracking.  
+[Open repository](https://github.com/SIDHIMUSIC/sidhi-gym-tracker)
+
+**🌐 Portfolio**  
+Personal portfolio and web projects.  
+[Visit harryashu.online](https://harryashu.online/)
+
+**🤖 Telegram projects**  
+Bots, utilities and community experiments.  
+[Explore my GitHub repositories](https://github.com/SIDHIMUSIC?tab=repositories)
+
+**🎮 Gaming Community Hub**  
+Community web app with posts and interactions.  
+[Explore my GitHub repositories](https://github.com/SIDHIMUSIC?tab=repositories)
 
 <img src="./assets/id-dashboard.svg?v=4" width="100%" alt="Harry creator identity card"/>
 
@@ -69,25 +67,17 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SIDHIMUSIC&show_icons=true&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=e6edf3" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDHIMUSIC&layout=compact&hide_border=true&bg_color=070b16&title_color=247bff&text_color=e6edf3" alt="Most used languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDHIMUSIC&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=e6edf3&dates=9aa9c4" width="100%" alt="GitHub contribution streak"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDHIMUSIC&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=e6edf3&dates=9aa9c4" width="75%" alt="GitHub contribution streak"/>
+[View all repositories and activity](https://github.com/SIDHIMUSIC?tab=repositories)
 
 </div>
 
 ## 🌐 Find me online
 
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
+<div align="center">
 
-<img src="./assets/right_pointing.png" width="100%" alt="Harry pointing toward the links"/>
-
-</td>
-<td width="55%" valign="middle">
+<img src="./assets/right_pointing.png" width="220" alt="Harry pointing toward the links"/>
 
 ### Let's connect
 
@@ -99,13 +89,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-247BFF?style=for-the-badge&logo=googlechrome)](https://harryashu.online/)
 
-</td>
-</tr>
-</table>
-
-<img src="./assets/connect.svg?v=4" width="100%" alt="Connect with Harry"/>
-
-<div align="center">
+<img src="./assets/connect.svg?v=4" width="100%" alt="Animated connect with Harry banner"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SIDHIMUSIC&style=for-the-badge&color=247BFF)
 
