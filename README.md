@@ -1,30 +1,33 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=5" width="100%" alt="Harry — animated profile banner"/>
+<img src="./assets/hero.svg?v=6" width="100%" alt="Harry — animated profile banner"/>
 
-![Animated introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=247BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Student+%7C+Coder+%7C+Gamer;Building+things+with+curiosity;Code+by+day.+Music+by+night.)
+![Typing introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=247BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Student+%7C+Coder+%7C+Gamer;Building+useful+web+experiences;Code+by+day.+Music+by+night.)
 
-<img src="./assets/id.png" width="260" alt="Harry illustrated portrait"/>
+<img src="./assets/id.png" width="230" alt="Illustrated portrait of Harry"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-SIDHIMUSIC-101827?style=for-the-badge&logo=github)](https://github.com/SIDHIMUSIC)
+[![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACCHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACCHA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harryashu.online/)
 
 </div>
 
-## Hey, I'm Harry 👋
+---
+
+## 👋 Hey, I'm Harry
 
 **@SIDHIMUSIC** · Patna, Bihar, India
 
-Student, frontend developer, gamer and music creator. I enjoy building useful web experiences, experimenting with bots, and learning new technologies.
+I'm a student and developer who enjoys building web experiences, experimenting with Telegram bots, and learning by shipping real projects. I also enjoy gaming and music.
 
-- 🔭 Building web projects and Telegram bots
-- 🌱 Exploring JavaScript, React and Python
-- 🎧 Music on, code flowing
-- 🚀 Motto: build, learn, improve
+- 🔭 Building practical web apps, bots, and small developer tools
+- 🌱 Learning through hands-on work with JavaScript, Python, and Firebase
+- 🧩 Interested in UI design, automation, and useful community features
+- 🎯 Current mindset: build it, test it, improve it
 
-[![GitHub](https://img.shields.io/badge/GitHub-SIDHIMUSIC-101827?style=for-the-badge&logo=github)](https://github.com/SIDHIMUSIC)
-[![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACCHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACHA)
+<img src="./assets/about-life.svg?v=6" width="100%" alt="About Harry — code by day, music by night"/>
 
-<img src="./assets/about-life.svg?v=5" width="100%" alt="About Harry — code by day, music by night"/>
-
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -41,29 +44,39 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 </div>
 
-<img src="./assets/stack.svg?v=5" width="100%" alt="Animated technology toolkit"/>
+<img src="./assets/stack.svg?v=6" width="100%" alt="Animated technology toolkit"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/SIDHIMUSIC/sidhi-gym-tracker"><img src="https://img.shields.io/badge/🏋️_SIDHI_GYM_TRACKER-Workout_&_fitness-247BFF?style=for-the-badge" alt="Sidhi Gym Tracker"/></a>
+<a href="https://github.com/SIDHIMUSIC/sidhi-gym-tracker"><img src="https://img.shields.io/badge/SIDHI_GYM_TRACKER-Workout_%26_run_tracking-247BFF?style=for-the-badge&logo=github" alt="Sidhi Gym Tracker repository"/></a>
 
-**Workout, treadmill and body-weight tracking.**
+**Gym sessions, running logs, weight progress, and workout history.**
 
-<a href="https://github.com/SIDHIMUSIC?tab=repositories"><img src="https://img.shields.io/badge/🤖_TELEGRAM_BOTS-Utilities_&_automation-229ED9?style=for-the-badge" alt="Telegram bots and utilities"/></a>
+[Open live app ↗](https://sidhi-gym-tracker.vercel.app)
 
-**Community tools, bot commands and automation experiments.**
+<br/>
 
-<a href="https://github.com/SIDHIMUSIC?tab=repositories"><img src="https://img.shields.io/badge/🎮_GAMING_COMMUNITY_HUB-Posts_&_interactions-FF405C?style=for-the-badge" alt="Gaming Community Hub"/></a>
+<a href="https://github.com/SIDHIMUSIC/gaminghub"><img src="https://img.shields.io/badge/GAMING_COMMUNITY_HUB-Community_web_app-FF405C?style=for-the-badge&logo=github" alt="Gaming Community Hub repository"/></a>
 
-**Community web app with posts, likes and comments.**
+**A gaming-focused community project.**
 
-<a href="https://harryashu.online/"><img src="https://img.shields.io/badge/🌐_HARRY'S_PORTFOLIO-Visit_website-111827?style=for-the-badge" alt="Harry's portfolio"/></a>
+<br/>
 
-**Personal website and web projects.**
+<a href="https://github.com/SIDHIMUSIC/HARRYCHATBOTSLF"><img src="https://img.shields.io/badge/HARRY_CHATBOT-Telegram_%26_AI-229ED9?style=for-the-badge&logo=telegram" alt="Harry Chatbot repository"/></a>
+
+**Modular Telegram bot project with extensible features.**
+
+<br/>
+
+<a href="https://github.com/SIDHIMUSIC/stylish-name-bot"><img src="https://img.shields.io/badge/STYLISH_NAME_BOT-Unicode_name_generator-7C3AED?style=for-the-badge&logo=telegram" alt="Stylish Name Bot repository"/></a>
+
+**Telegram bot for stylized names, Unicode fonts, and text frames.**
 
 </div>
+
+[Browse all public repositories →](https://github.com/SIDHIMUSIC?tab=repositories)
 
 ## 🐍 Contribution Journey
 
@@ -73,9 +86,9 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 </div>
 
-*The snake graphic appears after the GitHub Actions workflow successfully generates it.*
+*The snake graphic appears after the repository's GitHub Actions workflow successfully generates it.*
 
-## 📊 GitHub Dashboard
+## 📈 GitHub Dashboard
 
 <div align="center">
 
@@ -83,9 +96,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 [![Stars](https://img.shields.io/github/stars/SIDHIMUSIC?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&logo=github&color=ff405c)](https://github.com/SIDHIMUSIC?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=SIDHIMUSIC&style=for-the-badge&color=247BFF)](https://github.com/SIDHIMUSIC)
 
-![GitHub contribution and profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDHIMUSIC&theme=github_dark)
-
-![GitHub statistics summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIDHIMUSIC&theme=github_dark)
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDHIMUSIC&theme=github_dark)
 
 ![Most committed languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIDHIMUSIC&theme=github_dark)
 
@@ -93,11 +104,11 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 ## 💻 Dev Terminal
 
-<img src="./assets/dev-terminal.svg?v=1" width="100%" alt="Animated developer terminal showing current learning focus"/>
+<img src="./assets/dev-terminal.svg?v=2" width="100%" alt="Animated developer terminal showing learning focus"/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDHIMUSIC&bg_color=070c18&color=4c91ff&line=ff405c&point=ffffff&area=true&hide_border=true" width="100%" alt="Recent GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDHIMUSIC&bg_color=070c18&color=4c91ff&line=ff405c&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -105,20 +116,20 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 <table>
 <tr>
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="./assets/right_pointing.png" width="100%" alt="Harry pointing toward the links"/>
+<img src="./assets/right_pointing.png" width="100%" alt="Harry pointing toward the contact links"/>
 
 </td>
-<td width="55%" valign="middle">
+<td width="58%" valign="middle">
 
 ### Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-SIDHIMUSIC-101827?style=for-the-badge&logo=github)](https://github.com/SIDHIMUSIC)
 
-[![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACCHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACHA)
+[![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACCHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACCHA)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tum_jaha_hum_wahi)
+[![Instagram](https://img.shields.io/badge/Instagram-harryashu__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/harryashu_/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-247BFF?style=for-the-badge&logo=googlechrome)](https://harryashu.online/)
 
@@ -126,7 +137,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 </tr>
 </table>
 
-<img src="./assets/connect.svg?v=4" width="100%" alt="Animated connect with Harry banner"/>
+<img src="./assets/connect.svg?v=5" width="100%" alt="Animated connect banner"/>
 
 <div align="center">
 
