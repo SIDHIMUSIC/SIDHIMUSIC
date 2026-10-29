@@ -1,10 +1,10 @@
 <div align="center">
 
-![Harry — animated profile banner](./assets/hero.svg?v=5)
+<img src="./assets/hero.svg?v=5" width="100%" alt="Harry — animated profile banner"/>
 
 ![Animated introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=247BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Student+%7C+Coder+%7C+Gamer;Building+things+with+curiosity;Code+by+day.+Music+by+night.)
 
-![Harry illustrated portrait](./assets/id.png)
+<img src="./assets/id.png" width="260" alt="Harry illustrated portrait"/>
 
 </div>
 
@@ -22,7 +22,7 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 [![GitHub](https://img.shields.io/badge/GitHub-SIDHIMUSIC-101827?style=for-the-badge&logo=github)](https://github.com/SIDHIMUSIC)
 [![Telegram](https://img.shields.io/badge/Telegram-SANATANI__BACCHA-229ED9?style=for-the-badge&logo=telegram)](https://t.me/SANATANI_BACHA)
 
-![About Harry — code by day, music by night](./assets/about-life.svg?v=5)
+<img src="./assets/about-life.svg?v=5" width="100%" alt="About Harry — code by day, music by night"/>
 
 ## ⚡ Tech Stack
 
@@ -41,11 +41,11 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 </div>
 
-![Animated technology toolkit](./assets/stack.svg?v=5)
+<img src="./assets/stack.svg?v=5" width="100%" alt="Animated technology toolkit"/>
 
 ## 🚀 Featured Projects
 
-![Featured project cards](./assets/projects.svg?v=2)
+<img src="./assets/projects.svg?v=2" width="100%" alt="Featured project cards"/>
 
 - 🏋️ **[Sidhi Gym Tracker](https://github.com/SIDHIMUSIC/sidhi-gym-tracker)** — workout, treadmill and body-weight tracking
 - 🌐 **[Portfolio](https://harryashu.online/)** — personal site and projects
@@ -80,9 +80,9 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 ## 💻 Dev Terminal & Activity
 
-![Animated developer terminal](./assets/dev-terminal.svg?v=2)
+<img src="./assets/dev-terminal.svg?v=2" width="100%" alt="Animated developer terminal"/>
 
-![Recent GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDHIMUSIC&bg_color=070c18&color=4c91ff&line=ff405c&point=ffffff&area=true&hide_border=true)
+
 
 ## 🌐 Find me online
 
