@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
-  <rect width="800" height="250" fill="#070b16" rx="20"/>
-  <text fill="#247bff" x="40" y="50" font-size="28" font-weight="bold">About & Life</text>
-  <text fill="#f8f9fa" x="40" y="100" font-size="16">Capabilities: Telegram Bots, Web Apps, Maths Teaching</text>
-  <text fill="#f8f9fa" x="40" y="140" font-size="16">Interests: Coding, Interactive Design, Music, Teaching</text>
-  <text fill="#ff354f" x="40" y="180" font-size="14">Carousel animation placeholder (CSS/SMIL)</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230"><rect width="1000" height="230" rx="22" fill="#070b16" stroke="#ff354f" stroke-width="2"/><text x="42" y="48" fill="#ff354f" font-family="monospace" font-size="14" letter-spacing="3">01 / ABOUT</text><text x="42" y="98" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="34" font-weight="800">CODE BY DAY. MUSIC BY NIGHT.</text><text x="44" y="137" fill="#b7c3d8" font-family="Arial,sans-serif" font-size="17">Student • Developer • Gamer • Creator</text><rect x="42" y="166" width="916" height="1" fill="#28364e"/><text x="42" y="198" fill="#247bff" font-family="monospace" font-size="14">CURIOUS MIND / CONSISTENT BUILDER / ALWAYS LEARNING</text></svg>
