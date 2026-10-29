@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+  <rect width="800" height="250" fill="#070b16" rx="20"/>
+  <text fill="#247bff" x="40" y="50" font-size="28" font-weight="bold">Tech Stack</text>
+  <text fill="#f8f9fa" x="40" y="110" font-size="16">Python • JavaScript • HTML/CSS • React • Pyrogram</text>
+  <text fill="#f8f9fa" x="40" y="150" font-size="16">Telegram Bots • Web Animations • GitHub</text>
+  <text fill="#ff354f" x="40" y="190" font-size="14">Orbital icons animation placeholder</text>
+</svg>

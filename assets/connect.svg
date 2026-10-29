@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="800" height="300" fill="#070b16" rx="20"/>
+  <text fill="#f8f9fa" x="400" y="50" text-anchor="middle" font-size="28" font-weight="bold">Let's Connect</text>
+  <!-- Pointing character placeholder -->
+  <rect x="50" y="80" width="200" height="180" fill="#1a1f2e" rx="10" stroke="#ff354f"/>
+  <text fill="#f8f9fa" x="150" y="170" text-anchor="middle">Pointing Char</text>
+  <!-- Social cards -->
+  <a href="https://t.me/SANATANI_BACCHA">
+    <rect x="300" y="100" width="140" height="60" fill="#1a1f2e" rx="12" stroke="#247bff"/>
+    <text fill="#f8f9fa" x="370" y="135" text-anchor="middle" font-size="14">Telegram</text>
+  </a>
+  <a href="https://www.instagram.com/tum_jaha_hum_wahi">
+    <rect x="460" y="100" width="140" height="60" fill="#1a1f2e" rx="12" stroke="#ff354f"/>
+    <text fill="#f8f9fa" x="530" y="135" text-anchor="middle" font-size="14">Instagram</text>
+  </a>
+  <a href="https://github.com/SIDHIMUSIC">
+    <rect x="620" y="100" width="140" height="60" fill="#1a1f2e" rx="12" stroke="#247bff"/>
+    <text fill="#f8f9fa" x="690" y="135" text-anchor="middle" font-size="14">GitHub</text>
+  </a>
+</svg>

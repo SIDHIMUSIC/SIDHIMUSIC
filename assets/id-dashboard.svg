@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#070b16" rx="20"/>
+  <text fill="#f8f9fa" x="200" y="40" text-anchor="middle" font-size="20" font-weight="bold">ID Dashboard</text>
+  <rect x="80" y="70" width="240" height="180" fill="#1a1f2e" rx="15" stroke="#247bff" stroke-width="2"/>
+  <text fill="#ff354f" x="200" y="120" text-anchor="middle" font-size="16">Ashu Kumar</text>
+  <text fill="#f8f9fa" x="200" y="160" text-anchor="middle" font-size="12">SIDHIMUSIC</text>
+  <text fill="#f8f9fa" x="200" y="200" text-anchor="middle" font-size="12">Developer & Maths Educator</text>
+</svg>
