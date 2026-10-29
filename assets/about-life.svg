@@ -1,23 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
-  <rect width="900" height="280" fill="#070b16" rx="24"/>
-  <text fill="#247bff" x="40" y="50" font-size="28" font-weight="700">About & Life</text>
-  <text fill="#f8f9fa" x="40" y="100" font-size="16">Capabilities: Telegram Bots · Interactive Web · Maths Teaching · UI/UX</text>
-  <g transform="translate(40,140)">
-    <text fill="#ff354f" font-size="20" font-weight="600">
-      <tspan>Coding Bots & Automation</tspan>
-      <animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.33;0.66;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text fill="#ff354f" font-size="20" font-weight="600" opacity="0">
-      <tspan>Creating Interactive Web Experiences</tspan>
-      <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.33;0.66;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text fill="#ff354f" font-size="20" font-weight="600" opacity="0">
-      <tspan>Teaching Mathematics & Building Tools</tspan>
-      <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.33;0.66;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-  </g>
-  <rect x="40" y="200" width="200" height="6" fill="#1a1f2e" rx="3"/>
-  <rect x="40" y="200" width="0" height="6" fill="#247bff" rx="3">
-    <animate attributeName="width" values="0;200;0" keyTimes="0;0.9;1" dur="4s" repeatCount="indefinite"/>
-  </rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+  <rect width="800" height="250" fill="#070b16" rx="20"/>
+  <text fill="#247bff" x="40" y="50" font-size="28" font-weight="bold">About & Life</text>
+  <text fill="#f8f9fa" x="40" y="100" font-size="16">Capabilities: Telegram Bots, Web Apps, Maths Teaching</text>
+  <text fill="#f8f9fa" x="40" y="140" font-size="16">Interests: Coding, Interactive Design, Music, Teaching</text>
+  <text fill="#ff354f" x="40" y="180" font-size="14">Carousel animation placeholder (CSS/SMIL)</text>
 </svg>

@@ -1,43 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
   <defs>
     <style>
       .bg { fill: #070b16; }
-      .offwhite { fill: #f8f9fa; font-family: system-ui, -apple-system, sans-serif; }
-      .blue { fill: #247bff; }
+      .text { fill: #f8f9fa; font-family: system-ui, sans-serif; }
+      .accent { fill: #247bff; }
       .crimson { fill: #ff354f; }
-      .mask { mask: url(#nameMask); }
+      .typing { animation: type 3s steps(20) infinite alternate; }
+      @keyframes type { from { width: 0; } to { width: 100%; } }
     </style>
-    <mask id="nameMask">
-      <rect x="0" y="0" width="0" height="100">
-        <animate attributeName="width" from="0" to="400" dur="1.8s" fill="freeze" begin="0.4s"/>
-      </rect>
-    </mask>
   </defs>
-  <rect class="bg" width="900" height="420" rx="24"/>
-  <text class="offwhite" x="50" y="70" font-size="22">
-    <tspan>Hey, I'm </tspan>
-    <tspan class="blue">Ashu</tspan>
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
-  </text>
-  <text class="blue mask" x="50" y="160" font-size="92" font-weight="900">ASHU</text>
-  <text class="crimson" x="50" y="220" font-size="26" font-weight="600">
-    <tspan>Developer</tspan>
-    <animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" begin="1.5s"/>
-  </text>
-  <text class="crimson" x="50" y="220" font-size="26" font-weight="600" opacity="0">
-    <tspan>Mathematics Educator</tspan>
-    <animate attributeName="opacity" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" begin="1.5s"/>
-  </text>
-  <text class="crimson" x="50" y="220" font-size="26" font-weight="600" opacity="0">
-    <tspan>Telegram Bot Builder</tspan>
-    <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" begin="1.5s"/>
-  </text>
-  <text class="crimson" x="50" y="220" font-size="26" font-weight="600" opacity="0">
-    <tspan>Web Experience Creator</tspan>
-    <animate attributeName="opacity" values="0;0;0;1;0" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" begin="1.5s"/>
-  </text>
-  <text class="offwhite" x="50" y="270" font-size="18">Building interactive Telegram bots, web apps & teaching maths</text>
-  <text class="offwhite" x="50" y="320" font-size="16">📍 Patna, Bihar  ·  💻 SIDHIMUSIC</text>
-  <circle cx="720" cy="190" r="110" fill="#111827" stroke="#247bff" stroke-width="3"/>
-  <text class="offwhite" x="720" y="195" text-anchor="middle" font-size="14">Portrait</text>
+  <rect class="bg" width="800" height="400" rx="20"/>
+  <text class="text" x="50" y="80" font-size="28" font-weight="bold">Hey, I'm</text>
+  <text class="accent" x="50" y="140" font-size="64" font-weight="900">ASHU</text>
+  <text class="crimson" x="50" y="200" font-size="24">Developer & Mathematics Educator</text>
+  <text class="text" x="50" y="250" font-size="18">Building Telegram bots, interactive web apps & teaching maths</text>
+  <text class="text" x="50" y="300" font-size="16">📍 Patna, Bihar | 💻 SIDHIMUSIC</text>
+  <!-- Portrait placeholder - replace with embedded id.png -->
+  <circle cx="650" cy="180" r="80" fill="#1a1f2e" stroke="#247bff" stroke-width="4"/>
+  <text class="text" x="650" y="185" text-anchor="middle" font-size="14">Portrait</text>
 </svg>

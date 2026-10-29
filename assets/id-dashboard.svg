@@ -1,22 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340">
-  <rect width="420" height="340" fill="#070b16" rx="24"/>
-  <path d="M210 20 Q210 60 180 80" stroke="#888" stroke-width="4" fill="none"/>
-  <circle cx="210" cy="30" r="8" fill="#ccc"/>
-  <g transform="translate(210,160)">
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="-1.7;1.7;-1.7" dur="4s" repeatCount="indefinite" additive="sum"/>
-      <rect x="-110" y="-70" width="220" height="160" rx="16" fill="#111827" stroke="#247bff" stroke-width="2"/>
-      <text fill="#ff354f" x="0" y="-30" text-anchor="middle" font-size="18" font-weight="700">ASHU KUMAR</text>
-      <text fill="#f8f9fa" x="0" y="0" text-anchor="middle" font-size="13">SIDHIMUSIC</text>
-      <text fill="#f8f9fa" x="0" y="25" text-anchor="middle" font-size="12">Developer & Maths Educator</text>
-      <g transform="translate(-70,40)">
-        <rect width="4" height="30" fill="#f8f9fa"/>
-        <rect x="8" width="2" height="30" fill="#f8f9fa"/>
-        <rect x="14" width="6" height="30" fill="#f8f9fa"/>
-        <rect x="24" width="3" height="30" fill="#f8f9fa"/>
-        <rect x="32" width="5" height="30" fill="#f8f9fa"/>
-      </g>
-    </g>
-  </g>
-  <text fill="#888" x="210" y="300" text-anchor="middle" font-size="11">Gentle swing · Verified metrics only</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#070b16" rx="20"/>
+  <text fill="#f8f9fa" x="200" y="40" text-anchor="middle" font-size="20" font-weight="bold">ID Dashboard</text>
+  <rect x="80" y="70" width="240" height="180" fill="#1a1f2e" rx="15" stroke="#247bff" stroke-width="2"/>
+  <text fill="#ff354f" x="200" y="120" text-anchor="middle" font-size="16">Ashu Kumar</text>
+  <text fill="#f8f9fa" x="200" y="160" text-anchor="middle" font-size="12">SIDHIMUSIC</text>
+  <text fill="#f8f9fa" x="200" y="200" text-anchor="middle" font-size="12">Developer & Maths Educator</text>
 </svg>

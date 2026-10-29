@@ -1,28 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
-  <rect width="900" height="320" fill="#070b16" rx="24"/>
-  <text fill="#f8f9fa" x="450" y="45" text-anchor="middle" font-size="28" font-weight="700">Let's Connect</text>
-  <g transform="translate(80,80)">
-    <rect width="220" height="200" rx="16" fill="#111827" stroke="#ff354f" stroke-width="2"/>
-    <text fill="#f8f9fa" x="110" y="105" text-anchor="middle" font-size="14">Pointing Character</text>
-    <text fill="#888" x="110" y="130" text-anchor="middle" font-size="11">(right_pointing.png)</text>
-  </g>
-  <g transform="translate(340,90)">
-    <a href="https://t.me/SANATANI_BACCHA">
-      <rect width="150" height="70" rx="14" fill="#111827" stroke="#247bff"/>
-      <text fill="#f8f9fa" x="75" y="40" text-anchor="middle" font-size="14">Telegram</text>
-    </a>
-    <path d="M-20 35 L0 35" stroke="#247bff" stroke-width="2"/>
-  </g>
-  <g transform="translate(520,90)">
-    <a href="https://www.instagram.com/tum_jaha_hum_wahi">
-      <rect width="150" height="70" rx="14" fill="#111827" stroke="#ff354f"/>
-      <text fill="#f8f9fa" x="75" y="40" text-anchor="middle" font-size="14">Instagram</text>
-    </a>
-  </g>
-  <g transform="translate(700,90)">
-    <a href="https://github.com/SIDHIMUSIC">
-      <rect width="150" height="70" rx="14" fill="#111827" stroke="#247bff"/>
-      <text fill="#f8f9fa" x="75" y="40" text-anchor="middle" font-size="14">GitHub</text>
-    </a>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="800" height="300" fill="#070b16" rx="20"/>
+  <text fill="#f8f9fa" x="400" y="50" text-anchor="middle" font-size="28" font-weight="bold">Let's Connect</text>
+  <!-- Pointing character placeholder -->
+  <rect x="50" y="80" width="200" height="180" fill="#1a1f2e" rx="10" stroke="#ff354f"/>
+  <text fill="#f8f9fa" x="150" y="170" text-anchor="middle">Pointing Char</text>
+  <!-- Social cards -->
+  <a href="https://t.me/SANATANI_BACCHA">
+    <rect x="300" y="100" width="140" height="60" fill="#1a1f2e" rx="12" stroke="#247bff"/>
+    <text fill="#f8f9fa" x="370" y="135" text-anchor="middle" font-size="14">Telegram</text>
+  </a>
+  <a href="https://www.instagram.com/tum_jaha_hum_wahi">
+    <rect x="460" y="100" width="140" height="60" fill="#1a1f2e" rx="12" stroke="#ff354f"/>
+    <text fill="#f8f9fa" x="530" y="135" text-anchor="middle" font-size="14">Instagram</text>
+  </a>
+  <a href="https://github.com/SIDHIMUSIC">
+    <rect x="620" y="100" width="140" height="60" fill="#1a1f2e" rx="12" stroke="#247bff"/>
+    <text fill="#f8f9fa" x="690" y="135" text-anchor="middle" font-size="14">GitHub</text>
+  </a>
 </svg>
