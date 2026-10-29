@@ -45,12 +45,25 @@ Student, frontend developer, gamer and music creator. I enjoy building useful we
 
 ## 🚀 Featured Projects
 
-<img src="./assets/projects.svg?v=2" width="100%" alt="Featured project cards"/>
+<div align="center">
 
-- 🏋️ **[Sidhi Gym Tracker](https://github.com/SIDHIMUSIC/sidhi-gym-tracker)** — workout, treadmill and body-weight tracking
-- 🌐 **[Portfolio](https://harryashu.online/)** — personal site and projects
-- 🤖 **[Telegram bots and utilities](https://github.com/SIDHIMUSIC?tab=repositories)** — community tools and automation experiments
-- 🎮 **[Gaming Community Hub and other builds](https://github.com/SIDHIMUSIC?tab=repositories)** — community posts and interactions
+<a href="https://github.com/SIDHIMUSIC/sidhi-gym-tracker"><img src="https://img.shields.io/badge/🏋️_SIDHI_GYM_TRACKER-Workout_&_fitness-247BFF?style=for-the-badge" alt="Sidhi Gym Tracker"/></a>
+
+**Workout, treadmill and body-weight tracking.**
+
+<a href="https://github.com/SIDHIMUSIC?tab=repositories"><img src="https://img.shields.io/badge/🤖_TELEGRAM_BOTS-Utilities_&_automation-229ED9?style=for-the-badge" alt="Telegram bots and utilities"/></a>
+
+**Community tools, bot commands and automation experiments.**
+
+<a href="https://github.com/SIDHIMUSIC?tab=repositories"><img src="https://img.shields.io/badge/🎮_GAMING_COMMUNITY_HUB-Posts_&_interactions-FF405C?style=for-the-badge" alt="Gaming Community Hub"/></a>
+
+**Community web app with posts, likes and comments.**
+
+<a href="https://harryashu.online/"><img src="https://img.shields.io/badge/🌐_HARRY'S_PORTFOLIO-Visit_website-111827?style=for-the-badge" alt="Harry's portfolio"/></a>
+
+**Personal website and web projects.**
+
+</div>
 
 ## 🐍 Contribution Journey
 
